@@ -1,3 +1,9 @@
+"""
+COMP 4720
+Group: CLS-05
+Members: Emma Hofer & Alicia Ruz
+"""
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
